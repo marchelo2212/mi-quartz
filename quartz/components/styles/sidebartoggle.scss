@@ -1,0 +1,101 @@
+@use "../../styles/variables.scss" as *;
+
+body.hide-sidebars {
+  #quartz-body {
+    grid-template-columns: 60px 1fr;
+    grid-template-areas: 
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+
+    .sidebar.right {
+      display: none !important;
+    }
+
+    .sidebar.left {
+      display: flex !important;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      padding: 1rem 0.5rem;
+      background-color: var(--light);
+      border-right: 1px solid var(--lightgray);
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      z-index: 100; // Increased z-index
+
+      // Hide all direct children by default (PageTitle, Explorer, etc.)
+      > * {
+        display: none !important;
+      }
+
+      // Only show the Flex component that contains the toggle
+      // We use :has() to find the correct container
+      > .flex-component:has(.sidebar-toggle) {
+        display: flex !important;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        
+        // Hide all children of the flex component (the wrapper divs)
+        > div {
+          display: none !important;
+        }
+        
+        // Show ONLY the wrapper div that contains the sidebar toggle
+        > div:has(.sidebar-toggle) {
+          display: flex !important;
+          justify-content: center;
+          width: 100%;
+          
+          .sidebar-toggle {
+             display: flex !important;
+             visibility: visible !important;
+          }
+        }
+      }
+    }
+    
+    .center {
+      margin: 0 auto;
+      max-width: 800px;
+      width: 100%;
+      padding: 0 3rem; 
+      box-sizing: border-box;
+    }
+    
+    .page-header, .page-footer {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        padding: 0 3rem;
+        box-sizing: border-box;
+    }
+  }
+}
+
+.sidebar-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--darkgray);
+  padding: 0.5rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  &:hover {
+    background-color: var(--lightgray);
+    color: var(--dark);
+  }
+
+  svg {
+    width: 24px;
+    height: 24px;
+  }
+}
