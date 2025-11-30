@@ -17,7 +17,13 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+                  "private", 
+                    "templates",
+                    "Templates",
+                    "Citas-Referencias",     // 👈 añadimos esta
+                    "Citas-Referencias/**",  // 👈 y por si acaso subcarpetas
+                    ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
