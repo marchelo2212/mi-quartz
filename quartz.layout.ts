@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.SidebarToggle() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ folderClickBehavior: "collapse" }),
   ],
   right: [
     Component.Graph(),
@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.SidebarToggle() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ folderClickBehavior: "collapse" }),
   ],
   right: [],
 }
