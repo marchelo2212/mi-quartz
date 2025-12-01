@@ -2,7 +2,7 @@
 {"publish":true,"created":"2025-11-13T10:31","modified":"2025-11-13T10:33:42-05:00","cssclasses":""}
 ---
 
-# 📝 **Publicación para Blog (versión corregida y completa)**
+# 📝 Participación ICETEI 2025
 
 ### **Presentación en ICETEI 2025: Investigación sobre IA y retroalimentación formativa en educación superior**
 
