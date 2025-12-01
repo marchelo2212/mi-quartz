@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T10:44:41-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T11:00:36-05:00","cssclasses":""}
 ---
 
 # 📝 Participación ICETEI 2025
@@ -47,13 +47,23 @@ El estudio evidencia que:
 
 Este marco ofrece insumos relevantes para universidades, docentes e instituciones que buscan integrar IA de forma ética, pedagógica y contextualizada.
 
+<iframe 
+  src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401268054543994881?collapsed=1" 
+  height="611" 
+  width="504" 
+  frameBorder="0" 
+  allowFullScreen 
+  title="Publicación integrada">
+</iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401268054543994881?collapsed=1" height="611" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-
-
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394755600892481536?collapsed=1" height="546" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-
+<iframe 
+  src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394755600892481536?collapsed=1" 
+  height="546" 
+  width="504" 
+  frameBorder="0" 
+  allowFullScreen 
+  title="Publicación integrada">
+</iframe>
 
 ## **Un camino que se construye con otros**
 
