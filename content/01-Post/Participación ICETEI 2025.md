@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T11:08:40-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T11:15:42-05:00","cssclasses":""}
 ---
 
 # 📝 Participación ICETEI 2025
@@ -68,6 +68,20 @@ Este marco ofrece insumos relevantes para universidades, docentes e institucione
     title="Publicación integrada">
   </iframe>
 </div>
+
+
+
+
+
+<div dangerouslySetInnerHTML={{ __html: `
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401268054543994881?collapsed=1" height="611" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+` }} />
+
+<br />
+
+<div dangerouslySetInnerHTML={{ __html: `
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394755600892481536?collapsed=1" height="546" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+` }} />
 
 ## **Un camino que se construye con otros**
 
