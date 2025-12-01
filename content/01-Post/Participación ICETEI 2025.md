@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T10:31","modified":"2025-11-13T10:33:42-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T09:48:56-05:00","cssclasses":""}
 ---
 
 # 📝 Participación ICETEI 2025
@@ -21,23 +21,14 @@ La evidencia empírica desde América Latina sigue siendo limitada, por lo que e
 El instrumento fue validado psicométricamente e integra **nueve dimensiones clave**, basadas en literatura reciente sobre chatbots, user experience, ética y retroalimentación:
 
 1. **Perceived Usefulness** (utilidad percibida)
-    
 2. **Ease of Use** (facilidad de uso)
-    
 3. **Feedback Quality** (calidad de la retroalimentación)
-    
 4. **Trust / Impartiality** (confianza e imparcialidad)
-    
 5. **Transparency / Explainability** (transparencia y explicabilidad)
-    
 6. **Privacy / Ethics** (privacidad y consideraciones éticas)
-    
 7. **Emotions / Self-efficacy** (emociones y autoeficacia)
-    
 8. **Equity / Access** (equidad y acceso)
-    
 9. **Future Use Intention** (intención futura de uso)
-    
 
 Los resultados muestran valoraciones positivas en casi todas las dimensiones, especialmente en utilidad, facilidad de uso, calidad del feedback y motivación; mientras que los puntos de mayor cautela se encuentran en **privacidad, explicabilidad y equidad digital**.
 
@@ -55,6 +46,9 @@ El estudio evidencia que:
     
 
 Este marco ofrece insumos relevantes para universidades, docentes e instituciones que buscan integrar IA de forma ética, pedagógica y contextualizada.
+
+| <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401268054543994881?collapsed=1" height="611" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe> | <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394755600892481536?collapsed=1" height="546" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## **Un camino que se construye con otros**
 
