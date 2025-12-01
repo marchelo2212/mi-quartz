@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T10:41:59-05:00","cssclasses":""}
+{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T10:44:41-05:00","cssclasses":""}
 ---
 
 # 📝 Participación ICETEI 2025
@@ -47,12 +47,13 @@ El estudio evidencia que:
 
 Este marco ofrece insumos relevantes para universidades, docentes e instituciones que buscan integrar IA de forma ética, pedagógica y contextualizada.
 
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401268054543994881?collapsed=1" height="611" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-[#icetei2025 #aiineducation #investigación #educaciónsuperior #innovacióneducativa #scienceforsociety | Marcelo Sotaminga-Cinilin](https://www.linkedin.com/posts/marchelo2212_icetei2025-aiineducation-investigaciaejn-activity-7401268055835844609-woG-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1D01MBNikd2t7k_0NbQB1oQSTO4QcF4yQ)
+
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394755600892481536?collapsed=1" height="546" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-[🚀 Un nuevo paso en mi camino doctoral y de investigación Es un honor compartir que presentaré mi paper “Student Perceptions and Experiences with an AI-Based Assistant for Formative Feedback and… | Marcelo Sotaminga-Cinilin](https://www.linkedin.com/posts/marchelo2212_un-nuevo-paso-en-mi-camino-doctoral-y-activity-7394755602360516608-8egZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1D01MBNikd2t7k_0NbQB1oQSTO4QcF4yQ)
+
 
 ## **Un camino que se construye con otros**
 
