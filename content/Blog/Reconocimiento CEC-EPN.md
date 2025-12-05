@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Reconocimiento CEC-EPN","title":"Sin título","created":"2025-12-04T22:00","modified":"2025-12-04T22:03:49-05:00","tags":["blog","Reconocimiento","Work","Teaching"],"cssclasses":""}
+{"publish":true,"aliases":"Reconocimiento CEC-EPN","title":"Reconocimiento CEC-EPN","created":"2025-12-04T22:00","modified":"2025-12-04T22:03:49-05:00","tags":["blog","Reconocimiento","Work","Teaching"],"cssclasses":""}
 ---
 
 ## **Un reconocimiento que fortalece el compromiso y el sentido de comunidad**
