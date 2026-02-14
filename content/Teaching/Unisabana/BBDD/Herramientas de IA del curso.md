@@ -12,12 +12,12 @@ Genera una Guía de aprendizaje detallado y exhaustivo sobre "•Elementos bási
 Genera un podcast detallado y exhaustivo sobre "Representando relaciones en un modelo entidad/relación, 
 Llaves e Índices y Normalización; desde un enfoque técnico del tema, dirigido a estudiantes de Ingeniería. Se busca comprender los detalles técnicos, las metodologías, las tecnologías, las innovaciones y los logros descritos en estas fuentes. 
 
-<a href="Public/Teaching/Unisabana/BBDD/Drawing2026-02-13 09.56.00.excalidraw">Drawing2026-02-13 09.56.00.excalidraw</a>
+<a href="Public/Teaching/Unisabana/BBDD/Drawing2026-02-13-09.56.00.excalidraw">Drawing2026-02-13-09.56.00.excalidraw</a>
 
 !<a href="UniSabana/Doctorado/Paper1-ontology/Paper1.excalidraw">Paper1.excalidraw</a>
 
 
-<a href="Public/Teaching/Unisabana/BBDD/Drawing2026-02-13 09.56.00.excalidraw">Drawing2026-02-13 09.56.00.excalidraw</a>
+<a href="Public/Teaching/Unisabana/BBDD/Drawing2026-02-13-09.56.00.excalidraw">Drawing2026-02-13-09.56.00.excalidraw</a>
 
 
 
