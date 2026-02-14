@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"2025-06-30T07:34","modified":"2025-08-01T16:15:40-05:00","tags":["moodle","Guía","plugins","instalación"],"cssclasses":""}
+publish: true
+created: 2025-06-30T07:34
+modified: 2025-08-01T16:15:40-05:00
+tags:
+  - moodle
+  - Guía
+  - plugins
+  - instalación
+cssclasses: ""
 ---
 
 # Guía Técnica: Instalación y Desinstalación de Plugins Oficiales en Moodle 4.5.4+

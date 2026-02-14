@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-11-13T10:31","modified":"2025-12-01T11:27:12-05:00","cssclasses":""}
+publish: true
+created: 2025-11-13T10:31
+modified: 2025-12-01T11:27:12-05:00
+cssclasses: ""
 ---
 
 # 📝 Participación ICETEI 2025

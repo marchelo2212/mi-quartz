@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-04T10:28","modified":"2025-10-04T16:56:57-05:00","cssclasses":""}
+publish: true
+created: 2025-10-04T10:28
+modified: 2025-10-04T16:56:57-05:00
+cssclasses: ""
 ---
 
 Luego de tener el plugin se debe congurar según los detalles de su instalación.

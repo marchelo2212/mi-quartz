@@ -1,5 +1,12 @@
 ---
-{"publish":true,"created":"2025-06-28T21:46","modified":"2025-08-01T16:16:09-05:00","tags":["Moodle","Guía","instalación"],"cssclasses":""}
+publish: true
+created: 2025-06-28T21:46
+modified: 2025-08-01T16:16:09-05:00
+tags:
+  - Moodle
+  - Guía
+  - instalación
+cssclasses: ""
 ---
 
 # Guía de Instalación Técnica de Moodle 4.5.4+ en Ubuntu 22.04.4 LTS

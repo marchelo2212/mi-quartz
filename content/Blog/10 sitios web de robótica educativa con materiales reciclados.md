@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-04T09:59","modified":"2025-09-04T17:42:33-05:00","cssclasses":""}
+publish: true
+created: 2025-09-04T09:59
+modified: 2025-09-04T17:42:33-05:00
+cssclasses: ""
 ---
 
 # 10 sitios web de robótica educativa con materiales reciclados

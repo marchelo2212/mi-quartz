@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"2025-08-01T16:17","modified":"2025-08-01T16:20:20-05:00","tags":["IA","Examples","uso","personajes","Gif","Elearning"],"cssclasses":""}
+publish: true
+created: 2025-08-01T16:17
+modified: 2025-08-01T16:20:20-05:00
+tags:
+  - IA
+  - Examples
+  - uso
+  - personajes
+  - Gif
+  - Elearning
+cssclasses: ""
 ---
 
 

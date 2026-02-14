@@ -1,5 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-01T16:27","modified":"2025-08-11T18:23:08-05:00","tags":["moodle","IA","preguntas","cuestionario","actividades"],"cssclasses":""}
+publish: true
+created: 2025-08-01T16:27
+modified: 2025-08-11T18:23:08-05:00
+tags:
+  - moodle
+  - IA
+  - preguntas
+  - cuestionario
+  - actividades
+cssclasses: ""
 ---
 
 # Creación de preguntas de base estructurada para Moodle empleando IA

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-03-27T06:49","modified":"2025-06-18T20:44:08-05:00","cssclasses":""}
+publish: true
+created: 2025-03-27T06:49
+modified: 2025-06-18T20:44:08-05:00
+cssclasses: ""
 ---
 
 En la era de la sobrecarga informativa, especialmente en el ámbito político, es crucial tener herramientas que nos permitan verificar la veracidad de lo que vemos, escuchamos y leemos. Las noticias falsas y la desinformación pueden alterar la percepción pública y distorsionar el proceso democrático. En este sentido, la inteligencia artificial (IA) se presenta como una herramienta clave para fomentar el pensamiento crítico y facilitar la verificación de la información.

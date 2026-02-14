@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"2025-10-09T11:07","modified":"2025-10-09T11:15:36-05:00","tags":["Zotero","Productividad","automatización","investigación","Research","Tools"],"cssclasses":""}
+publish: true
+created: 2025-10-09T11:07
+modified: 2025-10-09T11:15:36-05:00
+tags:
+  - Zotero
+  - Productividad
+  - automatización
+  - investigación
+  - Research
+  - Tools
+cssclasses: ""
 ---
 
 # 🧩 ¿Cómo agregar etiquetas masivamente en Zotero Tag Manager?

@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Marcelo Sotaminga | Innovación, Tecnología, IA y Educación","description":"Sitio web oficial de Marcelo Sotaminga: consultor, docente e investigador en Innovación, Transformación Digital, Inteligencia Artificial, Ciencia de Datos y Educación","created":"2025-11-29T21:02","modified":"2025-12-02T06:00:49-05:00","cssclasses":""}
+publish: true
+title: Marcelo Sotaminga | Innovación, Tecnología, IA y Educación
+description: "Sitio web oficial de Marcelo Sotaminga: consultor, docente e investigador en Innovación, Transformación Digital, Inteligencia Artificial, Ciencia de Datos y Educación"
+created: 2025-11-29T21:02
+modified: 2025-12-02T06:09:32-05:00
+cssclasses: ""
 ---
 
 # 👋 Hola, soy **Marcelo Sotaminga-Cinilin**

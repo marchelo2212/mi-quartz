@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-01T17:30","modified":"2025-12-01T17:52:11-05:00","cssclasses":""}
+publish: true
+created: 2025-12-01T17:30
+modified: 2025-12-01T17:52:11-05:00
+cssclasses: ""
 ---
 
 # 🚀 Migrando mi Obsidian Vault a un sitio web estático con Quartz 4, GitHub Pages y automatización total

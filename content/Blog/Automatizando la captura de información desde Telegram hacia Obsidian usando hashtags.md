@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"2025-08-11T18:23","modified":"2025-08-11T20:46:59-05:00","tags":["Obsidian","Telegram","Post","#marchelo2212"],"cssclasses":""}
+publish: true
+created: 2025-08-11T18:23
+modified: 2025-08-11T20:46:59-05:00
+tags:
+  - Obsidian
+  - Telegram
+  - Post
+  - "#marchelo2212"
+cssclasses: ""
 ---
 
 # Automatizando la captura de información desde Telegram hacia Obsidian usando hashtags
