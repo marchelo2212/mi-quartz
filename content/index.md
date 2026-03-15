@@ -13,6 +13,7 @@ cssclasses: ""
 > Potenciar el aprendizaje, impulsar la transformación digital y acompañar procesos de innovación  
 > desde una perspectiva **humana, ética y basada en evidencia**.
 
+ 
 Soy **consultor**, **docente universitario** e **investigador** en el cruce entre **Innovación, Tecnología, Inteligencia Artificial, Educación y Gestión del Conocimiento**.  
 Este sitio es mi **espacio digital abierto**, donde conecto proyectos, ideas, recursos y experiencias.
 
