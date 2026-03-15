@@ -25,8 +25,6 @@ Este sitio es mi **espacio digital abierto**, donde conecto proyectos, ideas, re
 > [!info] ¿Qué es este sitio?
 > Un **ecosistema de conocimiento abierto**, construido con **Obsidian + Quartz**, que integra blog, portafolio, recursos educativos e investigación.
 
----
-
 ## 🚀 Áreas principales
 
 > [!example] 📘 **Blog**
@@ -37,17 +35,19 @@ Este sitio es mi **espacio digital abierto**, donde conecto proyectos, ideas, re
 > - Gestión del conocimiento  
 > - Educación abierta, STEAM y pensamiento computacional  
 >
-> 👉 **[Explorar artículos](/blog/)**
+> 👉 **[[Blog/index]]**
+	
 
 > [!tip] 🧩 **Proyectos & Consultorías**
 > Portafolio con experiencias junto a:
 > - Ministerios y gobiernos  
-> - Organismos multilaterales (BID, CEPAL, UNESCO, OEI)  
+> - Organismos multilaterales (BID, UNESCO, OEI)  
 > - Universidades, ONG y empresas  
 >
 > Incluye **casos de estudio, soluciones tecnológicas, modelos tecnopedagógicos y resultados de impacto**.  
 >
 > 👉 **[Ver proyectos](/proyectos/)**
+
 
 > [!note] 🎓 **Recursos para estudiantes y docentes**
 > Material abierto y reutilizable:
